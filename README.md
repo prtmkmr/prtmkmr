@@ -26,10 +26,4 @@ Feel free to explore my repositories, and if you find something interesting, don
 
 ## Support
 
-If you find my work useful or want to support my projects, consider buying me a coffee or sponsoring me on [GitHub Sponsors](link-to-your-sponsorship-page).
-
-## License
-
-This profile README is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
----
+If you find my work useful or want to support my projects, consider buying me a coffee☕.
