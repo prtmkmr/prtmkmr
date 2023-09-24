@@ -1,5 +1,3 @@
-Certainly! Here's a README template for your GitHub profile, tailored to your information:
-
 # Pritam Kumar - Data Analyst
 
 ![Profile Banner](link-to-your-profile-banner-image)
