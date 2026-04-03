@@ -1,10 +1,10 @@
-# Pritam Kumar - Data Analyst
+# Pritam Kumar - Product Manager 
 
 ![Profile Banner](link-to-your-profile-banner-image)
 
 ## About Me
 
-Hello! I'm Pritam Kumar, a data analyst with a passion for uncovering insights from data and creating data-driven solutions. I'm based in Pune and skilled in various tools and technologies, including SQL, Python, Excel, Power BI, and Tableau.
+Hello! I'm Pritam Kumar, a product manager with a passion for uncovering insights from data and creating data-driven solutions. I'm based in Pune and skilled in various tools and technologies, including SQL, Python, Excel, Power BI, and Tableau.
 
 ## Interests
 
